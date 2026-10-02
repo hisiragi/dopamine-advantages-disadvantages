@@ -1,1 +1,4 @@
-# dopamine-advantages-disadvantages
+# ドーパミンが与えるメリット・デメリット
+ドーパミンが与えるメリット・デメリットについてまとめたPowerPoint(スライド)・PDFです。
+このPowerPoint(スライド)・PDFは「unlicense」なのでご自由にお使い頂けます。
+中学生等の調べ学習でそのまま流用されても構いません、出典は不要です。
